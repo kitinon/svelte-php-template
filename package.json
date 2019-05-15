@@ -15,7 +15,7 @@
   "scripts": {
     "build": "rollup -c",
     "autobuild": "rollup -c -w",
-    "dev": "run-p start autobuild",
+    "dev": "run-p autobuild start",
     "start": "php -S 0.0.0.0:5000 -t public"
   }
 }
