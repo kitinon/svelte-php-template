@@ -1,5 +1,5 @@
 
-# svelte php app
+# Svelte+PHP template
 
 This is a project template modified from original [Svelte template](https://github.com/sveltejs/template) to work with PHP as a developemnt server.
 
@@ -18,7 +18,7 @@ cd my-app
 Install the dependencies...
 
 ```bash
-cd svelte-app
+cd my-app
 npm install
 ```
 
