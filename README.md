@@ -1,6 +1,6 @@
 
 # Svelte+PHP template
-
+เป็นโปรเจ็คเริ่มต้นสำหรับการสร้าง template php + svelte
 This is a project template modified from original [Svelte template](https://github.com/sveltejs/template) to work with PHP as a developemnt server.
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
